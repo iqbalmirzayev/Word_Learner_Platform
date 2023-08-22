@@ -4,7 +4,7 @@ This project contains a Python-based program that retrieves phrases from a platf
 
 ## Features
 
-- Phrase Retrieval It retrieves phrases related to a specific topic from the Memrise-like API and stores them in a database.
+- Phrase Retrieval: It retrieves phrases related to a specific topic from the Memrise-like API and stores them in a database.
 - Querying: Users can use the program to inquire about a phrase or expression they want to learn.
 - Responding: The program provides appropriate responses if there are matching phrases in the database.
 
